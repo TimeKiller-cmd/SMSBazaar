@@ -1,6 +1,6 @@
 # OpenAI API - Supported Countries and Territories
 # Source: https://help.openai.com/en/articles/5347006-openai-api-supported-countries-and-territories
-# Synced at: 2026-08-04T06:06:30.970Z
+# Synced at: 2026-08-05T06:03:20.602Z
 # One ISO2 code per line.
 AL
 DZ
